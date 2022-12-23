@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border;
+}
+header{
+    background-color: cornflowerblue;
+    color: white;
+    width: 96%;
+    padding: 2%;
+    height: auto;
+    border-bottom: 1px solid black;
+}
